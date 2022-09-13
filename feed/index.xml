@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>my wordpress</title>
+	<atom:link href="https://lap31122003.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lap31122003.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 30 Aug 2022 09:36:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>trang chủ</title>
+		<link>https://lap31122003.github.io/mywordpress/trang-chu/</link>
+					<comments>https://lap31122003.github.io/mywordpress/trang-chu/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhlap]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2022 09:07:32 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lap31122003.github.io/mywordpress/?p=51</guid>
+
+					<description><![CDATA[Ten Hag Previous Next]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="51" class="elementor elementor-51">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b7d37d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b7d37d7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-572583a" data-id="572583a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f05e581 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="f05e581" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-1d371dd swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div  class="elementor-button elementor-slide-button elementor-size-sm">Ten Hag</div></div></div></div><div class="elementor-repeater-item-aaf6588 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-63d0161 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d0775e5" data-id="d0775e5" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b6fa585" data-id="b6fa585" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5581bb7" data-id="5581bb7" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://lap31122003.github.io/mywordpress/trang-chu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>demo</title>
+		<link>https://lap31122003.github.io/mywordpress/demo/</link>
+					<comments>https://lap31122003.github.io/mywordpress/demo/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhlap]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2022 07:10:02 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lap31122003.github.io/mywordpress/?p=44</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://lap31122003.github.io/mywordpress/demo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ngoại Hạng Anh đêm qua</title>
+		<link>https://lap31122003.github.io/mywordpress/con-dia-chan-ngoai-hang-anh-dem-qua/</link>
+					<comments>https://lap31122003.github.io/mywordpress/con-dia-chan-ngoai-hang-anh-dem-qua/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhlap]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 08:06:39 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lap31122003.github.io/mywordpress/?p=6</guid>
+
+					<description><![CDATA[Manchester united 2-1 Liverpool 1 bàn thắng thứ nhất của Sancho Lợi thế được chơi trên sân nhà giúp&#160;MU&#160;nhập cuộc vô cùng lấn lướt trước Liverpool. Đội chủ sân&#160;Old Trafford&#160;nhanh chóng áp đặt thế trận với khả năng pressing tốt của các học trò HLV Ten Hag. Ngược lại,&#160;Liverpool&#160;với hàng loạt sự thiếu vắng do [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-x-large-font-size">Manchester united 2-1 Liverpool</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="719" height="313" src="https://lap31122003.github.io/mywordpress/wp-content/uploads/2022/08/vong-3-ngoai-hang-anh-2.png" alt="" class="wp-image-13"/></figure>
+
+
+
+<p class="has-x-large-font-size"><strong>1 bàn thắng thứ nhất của Sancho</strong></p>
+
+
+
+<p>Lợi thế được chơi trên sân nhà giúp&nbsp;<a href="https://www.24h.com.vn/manchester-united-c48e1521.html">MU</a>&nbsp;nhập cuộc vô cùng lấn lướt trước Liverpool. Đội chủ sân&nbsp;<a href="https://www.24h.com.vn/manchester-united-c48e1521.html">Old Trafford</a>&nbsp;nhanh chóng áp đặt thế trận với khả năng pressing tốt của các học trò HLV Ten Hag. Ngược lại,&nbsp;<a href="https://www.24h.com.vn/liverpool-c48e1528.html">Liverpool</a>&nbsp;với hàng loạt sự thiếu vắng do chấn thương đã không thể kiểm soát được tình hình dù Klopp vẫn tung ra sơ đồ quen thuộc.</p>
+
+
+
+<p>Sự hưng phấn của MU giúp họ sớm có được những cơ hội rõ ràng. Nếu như Elanga may mắn&nbsp;hơn trong pha dứt điểm đối mặt đưa bóng đi dội cột dọc thì bàn thắng đã sớm tới với MU. Dù vậy, đội chủ nhà cũng không phải tiếc nuối quá lâu khi ở phút 16, từ đường chuyền vào bên cánh trái, Sancho xử lý bình tĩnh trước khi dứt điểm dễ dàng mở tỷ số cho MU.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://lap31122003.github.io/mywordpress/wp-content/uploads/2022/08/sancho.jpeg" alt="" class="wp-image-11" width="600" height="371"/></figure>
+
+
+
+<div class="wp-container-8 wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-container-4 wp-block-group alignwide"><div class="wp-block-group__inner-container">
+<p class="has-text-align-left has-x-large-font-size"><strong>2 Rashford lấy lại phong độ</strong></p>
+
+
+
+<div class="wp-container-3 wp-block-columns alignwide are-vertically-aligned-center">
+<div class="wp-container-1 wp-block-column" style="flex-basis:55%">
+<p class="has-text-align-right has-small-font-size">Nhưng ở trận đấu với Liverpool, Rashford đã phần nào lấy lại phong độ khi ghi bàn nâng tỷ số lên 2-1 và có hàng loạt pha dứt điểm đầy nguy hiểm. Và với bàn thắng ở phút 53, Rashford đã vươn lên thứ 2 trong danh sách những cầu thủ ghi được nhiều bàn nhất cho MU vào lưới Liverpool tại Premier League. Anh đã có 5 lần phá lưới The Kop, chỉ kém mỗi Wayne Rooney (6 lần).</p>
+
+
+
+<p class="has-x-large-font-size"><strong>3 Lisandro Martinez</strong> </p>
+
+
+
+<p>Hai bàn thắng đó đã mang về 3 điểm chiến thắng đầu tay cho MU nhưng đó chưa phải là điểm nhấn trong trận đấu tối qua điểm nhấn tối qua thuộc về một thủ người Argentina là Lisandro Martínez với những thống kê ấn tượng</p>
+</div>
+
+
+
+<div class="wp-container-2 wp-block-column" style="flex-basis:45%">
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lap31122003.github.io/mywordpress/wp-content/uploads/2022/08/rashford.jpg" alt="" class="wp-image-10" width="271" height="153"/></figure>
+</div>
+</div>
+</div></div>
+
+
+
+<div class="wp-container-7 wp-block-columns alignwide">
+<div class="wp-container-5 wp-block-column" style="flex-basis:52%">
+<figure class="wp-block-image is-resized"><img loading="lazy" src="https://lap31122003.github.io/mywordpress/wp-content/uploads/2022/08/Lisandro-.jpg" alt="" class="wp-image-9" width="330" height="185"/><figcaption> Lisandro Martínez đang tranh chấp với Luiz Diaz</figcaption></figure>
+</div>
+
+
+
+<div class="wp-container-6 wp-block-column" style="flex-basis:48%">
+<p><strong>thống kê tối qua</strong></p>
+
+
+
+<ul><li>100% pha rê bóng thành công</li><li>82% đường chuyền chính xác</li><li>41 lần chạm bóng</li><li>5 đường chuyền dài</li><li>3 lần thu hồi bóng</li><li>7 lần giải vây</li></ul>
+</div>
+</div>
+</div></div>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://lap31122003.github.io/mywordpress/wp-content/uploads/2022/08/sancho.jpeg" alt="" class="wp-image-11" width="481" height="297"/></figure>
+
+
+
+<p class="has-x-large-font-size"><strong>4 sự thất thần của LIVERPOLL</strong></p>
+
+
+
+<p>bên chiều ngược lại với đà hương phấn của của các cầu thủ Manchester United thì các cầu thủ Liverpoll cảm thấy thất thần và không tin vào mắt mình với những tình huống bỏ lỡ cực kì đáng tiết khiến họ ngày càng khó tìm đường đến khung thành của MU</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://lap31122003.github.io/mywordpress/wp-content/uploads/2022/08/liverpool.jpg" alt="" class="wp-image-16" width="649" height="422"/></figure>
+
+
+
+<p class="has-x-large-font-size"><strong>5 HLV TenHag nói gì sau chiến thắng</strong></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://lap31122003.github.io/mywordpress/wp-content/uploads/2022/08/ten-hag.jpg" alt="" class="wp-image-20" width="559" height="372"/></figure>
+
+
+
+<p>MU đã khởi đầu mùa giải mới tệ hại với 2 trận toàn thua Brighton và Brentford. Trước Brentford, họ thậm chí thủng lưới 4 lần chỉ sau 35 phút đầu tiên. Sau trận đấu đó, HLV Erik ten Hag đã nổi điên và công khai chỉ trích thái độ thi đấu của các cầu thủ áo đỏ.</p>
+
+
+
+<p>Ở vòng 3, MU phải tiếp đón đối thủ mạnh Liverpool. Hầu hết các chuyên gia đều cho rằng MU khó lòng thoát khỏi thất bại sau những gì đã trình diễn. Tuy nhiên, họ bất ngờ giành chiến thắng 2-1 nhờ các bàn thắng của Sancho và Rashford. Ở trận này, Ten Hag đã mạnh tay loại bỏ cả Maguire và Ronaldo, qua đó giúp lối chơi của MU giàu năng lượng hơn hẳn.</p>
+
+
+
+<p>Chia sẻ sau khi cùng MU giành 3 điểm đầu tiên ở mùa giải mới, Ten Hag cho biết: “Mọi người có thể nói về chiến thuật, nhưng thái độ mới là điều quan trọng nhất. Chúng tôi đã vào sân với thái độ đúng đắn. Có sự giao tiếp, có tinh thần chiến đấu và bạn có thể thấy họ có thể làm những gì, bởi lẽ họ đủ khả năng chơi bóng tuyệt hay”.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lap31122003.github.io/mywordpress/con-dia-chan-ngoai-hang-anh-dem-qua/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://lap31122003.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>https://lap31122003.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[tranthanhlap]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2022 07:34:30 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://lap31122003.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lap31122003.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
