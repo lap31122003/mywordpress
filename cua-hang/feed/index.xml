@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sản phẩm &#8211; my wordpress</title>
+	<atom:link href="https://lap31122003.github.io/mywordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lap31122003.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 11 Oct 2022 09:30:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Wedding Gown</title>
+		<link>https://lap31122003.github.io/mywordpress/san-pham/wedding-gown/</link>
+					<comments>https://lap31122003.github.io/mywordpress/san-pham/wedding-gown/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhlap]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:48:30 +0000</pubDate>
+				<guid isPermaLink="false">https://lap31122003.github.io/mywordpress/?post_type=product&#038;p=144</guid>
+
+					<description><![CDATA[Frilly, playful, and romantic, there is something so quintessentially bridal about a ruffled wedding dress. Whether you’re drawn to gowns with layers of cascading tulle or you’re looking for something more subtle like midi dresses with flouncy hems, ruffles add texture and dimension.
+
+Designed with the modern bride in mind, this architectural yet playful dress features voluminous ruffles and an asymmetric ankle-grazing hem. Wear yours with clean and simple accessories to round out your look.
+<ul>
+ 	<li>Lace Gown With Full-Length Illusion Sleeves.</li>
+ 	<li>Princess Seams and Illusion Neckline.</li>
+ 	<li>Draped Bodice And A-line Pick Up Skirt.</li>
+ 	<li>Fit And Flare Dress With Lace Details.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>All eyes will be on you as you make an unforgettable entrance in this show-stopping gown. Part mini dress, part dramatic gown, this high-low number is designed to leave a lasting impression.We love it for the romantic bride who has an eye for fashion-forward designs.</p>
+<p>A single ruffled strap adds the perfect finishing touch to this simple gown. We love this look for the minimalist bride who appreciates the beauty of an asymmetrical neckline. The dimensional ruffles swirl across the gown giving the silhouette movement and added whimsy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lap31122003.github.io/mywordpress/san-pham/wedding-gown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Heavy Work Gown</title>
+		<link>https://lap31122003.github.io/mywordpress/san-pham/heavy-work-gown/</link>
+					<comments>https://lap31122003.github.io/mywordpress/san-pham/heavy-work-gown/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhlap]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 07:48:31 +0000</pubDate>
+				<guid isPermaLink="false">https://lap31122003.github.io/mywordpress/?post_type=product&#038;p=135</guid>
+
+					<description><![CDATA[<div class="summary entry-summary">
+<div class="woocommerce-product-details__short-description">
+
+Frilly, playful, and romantic, there is something so quintessentially bridal about a ruffled wedding dress. Whether you’re drawn to gowns with layers of cascading tulle or you’re looking for something more subtle like midi dresses with flouncy hems, ruffles add texture and dimension.
+
+Designed with the modern bride in mind, this architectural yet playful dress features voluminous ruffles and an asymmetric ankle-grazing hem. Wear yours with clean and simple accessories to round out your look.
+<ul>
+ 	<li>Lace Gown With Full-Length Illusion Sleeves.</li>
+ 	<li>Princess Seams and Illusion Neckline.</li>
+ 	<li>Draped Bodice And A-line Pick Up Skirt.</li>
+ 	<li>Fit And Flare Dress With Lace Details.</li>
+</ul>
+</div>
+</div>
+<div class="woocommerce-tabs wc-tabs-wrapper"></div>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>All eyes will be on you as you make an unforgettable entrance in this show-stopping gown. Part mini dress, part dramatic gown, this high-low number is designed to leave a lasting impression.We love it for the romantic bride who has an eye for fashion-forward designs.</p>
+<p>A single ruffled strap adds the perfect finishing touch to this simple gown. We love this look for the minimalist bride who appreciates the beauty of an asymmetrical neckline. The dimensional ruffles swirl across the gown giving the silhouette movement and added whimsy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lap31122003.github.io/mywordpress/san-pham/heavy-work-gown/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
